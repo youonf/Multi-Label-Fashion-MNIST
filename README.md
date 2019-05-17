@@ -1,5 +1,16 @@
 # Multi-Label Classification and Class Activation Map on Fashion-MNIST
 
+This is an updated version of below repo.
+1. changed the python file to jupyter notebook format.
+2. explored the layers activation
+
+![](layers_activation/layer-9)
+
+
+
+
+===
+
 This repository covers the code for the blog.
 
 - https://towardsdatascience.com/multi-label-classification-and-class-activation-map-on-fashion-mnist-1454f09f5925
