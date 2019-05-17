@@ -4,9 +4,9 @@ This is an updated version of below repo.
 1. changed the python file to jupyter notebook format.
 2. explored the layers activation
 
-![](layers_activation/layer-9.png)
-![](layers_activation/layer-7.png)
-![](layers_activation/layer-5.png)
+![](layers_activation/layer-9.png)  
+![](layers_activation/layer-7.png)  
+![](layers_activation/layer-5.png)  
 ![](layers_activation/layer-3.png)
 
 -----
